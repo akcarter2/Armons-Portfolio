@@ -494,9 +494,9 @@ ul.sub-menu {
     background-position: center;
     background-size: cover;
 }
-
+/* change main page picture here */
 .home-two #home-banner {
-    background-image: url(../images/2024_YWeb_Headshots__36_of_44_-removebg-preview.png);
+    background-image: url(../images/animeifyprofilepictrspt.png);
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
