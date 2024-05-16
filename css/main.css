@@ -501,6 +501,13 @@ ul.sub-menu {
     background-position: right;
     background-size: contain;
 }
+.home-two>#home-banner:hover {
+    background-image: url(../images/2024_YWeb_Headshots__36_of_44_-removebg-preview.png);
+    background-repeat: no-repeat;
+    /* background-position: right; */
+    background-size: contain;
+    
+}
 
 .banner-info h1 {
     font-size: 48px;
