@@ -496,18 +496,12 @@ ul.sub-menu {
 }
 /* change main page picture here */
 .home-two #home-banner {
-    background-image: url(../images/animeifyprofilepictrspt.png);
+    background-image: url(../images/b&wportfoliopic1\ \(2\).png);
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
 }
-.home-two>#home-banner:hover {
-    background-image: url(../images/2024_YWeb_Headshots__36_of_44_-removebg-preview.png);
-    background-repeat: no-repeat;
-    /* background-position: right; */
-    background-size: contain;
-    
-}
+
 
 .banner-info h1 {
     font-size: 48px;
