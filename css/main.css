@@ -841,6 +841,11 @@ ul.sub-menu {
     overflow: hidden;
 }
 
+.portfolio-item>img {
+    width: 360px;
+    height: 264px;
+}
+
 .portfolio-overlay {
     position: absolute;
     top: -100%;
