@@ -1138,6 +1138,11 @@ img.mfp-img {
     z-index: 1;
 }
 
+.entry-port {
+    width: auto;
+    height: auto;
+}
+
 .entry-post .time a {
     width: 84px;
     height: 84px;
