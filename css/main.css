@@ -1228,7 +1228,7 @@ img.mfp-img {
 }
 
 .profile-section .profile-info {
-    margin-bottom: 70px;
+   
     overflow: hidden;
 }
 
@@ -1265,9 +1265,6 @@ img.mfp-img {
     display: inline-block;
 }
 
-.career-objective {
-    padding-bottom: 10px;
-}
 
 .sub-content {
     padding-left: 70px;
