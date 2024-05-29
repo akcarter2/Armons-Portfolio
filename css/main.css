@@ -1098,10 +1098,19 @@ img.mfp-img {
 
 /* Blog Section */
 
+
+.entry-thumbnail img {
+    width: 360px;
+    height: 264px;
+    object-fit: fill; /* Preserve aspect ratio without distorting */
+}
+    
+
 .blog-section .entry-post {
     margin-bottom: 30px;
     overflow: hidden;
 }
+
 
 .entry-thumbnail {
     position: relative;
